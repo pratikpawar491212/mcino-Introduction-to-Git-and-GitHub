@@ -1,0 +1,8 @@
+git checkout main
+Switched to branch 'main'
+
+git merge bug-fix-typo
+Updating 4f273a1..4240e40
+Fast-forward
+ README.md | 7 +++++--
+ 1 file changed, 5 insertions(+), 2 deletions(-)
