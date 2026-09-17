@@ -1,0 +1,4 @@
+git branch -vv
+
+  bug-fix-typo 4240e40 Fix typo in README
+* main         4240e40 [origin/main: ahead 1] Fix typo in README
